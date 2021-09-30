@@ -4,5 +4,5 @@ import oops.com.example.A
 
 object B extends App {
 
-  new A()
+//  new A()
 }
